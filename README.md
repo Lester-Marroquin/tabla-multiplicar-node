@@ -42,6 +42,7 @@ Mostrará en consola el siguiente resultado:
 >tabla de 5
 
 >==================================
+
 >5  * 0 = 0
 
 >5 * 1 = 5
